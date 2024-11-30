@@ -12,4 +12,4 @@ The codes provided here are strictly not allowed to be used for any money-making
 
 # Credits
 
-These works were developed by my team and I: Yu Yongshan, Yip Chen Fei, Wong Seik Man, Kee Ming Yuan.
+The group project is done by my team and I: Yu Yongshan, Yip Chen Fei, Wong Seik Man, Kee Ming Yuan.
